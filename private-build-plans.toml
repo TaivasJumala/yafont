@@ -1,86 +1,86 @@
 [buildPlans.yafont]
 family = "yafont"
-spacing = term
-serifs = sans
+spacing = "term"
+serifs = "sans"
 noCvSs = false
 exportGlyphNames = true
 
 [buildPlans.yafont.variants]
-inherits = ss15
+inherits = "ss15"
 
 [buildPlans.yafont.variants.design]
-five = upright-arched-serifless
-six = straight-bar
-seven = straight-serifless
-nine = straight-bar
-zero = tall-slashed
-capital-d = standard-serifless
-capital-j = serifed-symmetric
-capital-m = flat-bottom-serifless
-capital-q = crossing
-capital-w = straight-flat-top-serifless
-a = double-storey-serifed
-d = toothed-bottom-serifed
-g = single-storey-serifless
-u = toothed-serifless
-underscore = above-baseline
-brace = straight
-number-sign = slanted
-at = fourfold
-dollar = through-cap
-percent = rings-continuous-slash
-question = smooth
-pilcrow = high
-lig-ltgteq = slanted
+five = "upright-arched-serifless"
+six = "straight-bar"
+seven = "straight-serifless"
+nine = "straight-bar"
+zero = "tall-slashed"
+capital-d = "standard-serifless"
+capital-j = "serifed-symmetric"
+capital-m = "flat-bottom-serifless"
+capital-q = "crossing"
+capital-w = "straight-flat-top-serifless"
+a = "double-storey-serifed"
+d = "toothed-bottom-serifed"
+g = "single-storey-serifless"
+u = "toothed-serifless"
+underscore = "above-baseline"
+brace = "straight"
+number-sign = "slanted"
+at = "fourfold"
+dollar = "through-cap"
+percent = "rings-continuous-slash"
+question = "smooth"
+pilcrow = "high"
+lig-ltgteq = "slanted"
 
 [buildPlans.yafont.variants.italic]
-five = upright-arched-serifless
-six = straight-bar
-seven = straight-serifless
-nine = straight-bar
-zero = tall-slashed
-capital-d = standard-serifless
-capital-j = serifed-symmetric
-capital-m = flat-bottom-serifless
-capital-p = closed-serifless
-capital-q = crossing
-capital-w = straight-flat-top-serifless
-a = double-storey-toothless-corner
-f = flat-hook-tailed
-g = single-storey-flat-hook-top-cut
-i = tailed-serifed
-j = flat-hook-serifed
-l = serifed-asymmetric
-m = top-left-serifed
-n = straight-top-left-serifed
-t = flat-hook-short-neck
-u = toothed-motion-serifed
-v = straight-motion-serifed
-w = straight-flat-top-motion-serifed
-x = straight-bilateral-motion-serifed
-y = straight-turn-motion-serifed
-z = straight-serifless
-underscore = above-baseline
-brace = straight
-number-sign = slanted
-at = fourfold
-dollar = through-cap
-percent = rings-continuous-slash
-question = smooth
-pilcrow = high
-lig-ltgteq = slanted
+five = "upright-arched-serifless"
+six = "straight-bar"
+seven = "straight-serifless"
+nine = "straight-bar"
+zero = "tall-slashed"
+capital-d = "standard-serifless"
+capital-j = "serifed-symmetric"
+capital-m = "flat-bottom-serifless"
+capital-p = "closed-serifless"
+capital-q = "crossing"
+capital-w = "straight-flat-top-serifless"
+a = "double-storey-toothless-corner"
+f = "flat-hook-tailed"
+g = "single-storey-flat-hook-top-cut"
+i = "tailed-serifed"
+j = "flat-hook-serifed"
+l = "serifed-asymmetric"
+m = "top-left-serifed"
+n = "straight-top-left-serifed"
+t = "flat-hook-short-neck"
+u = "toothed-motion-serifed"
+v = "straight-motion-serifed"
+w = "straight-flat-top-motion-serifed"
+x = "straight-bilateral-motion-serifed"
+y = "straight-turn-motion-serifed"
+z = "straight-serifless"
+underscore = "above-baseline"
+brace = "straight"
+number-sign = "slanted"
+at = "fourfold"
+dollar = "through-cap"
+percent = "rings-continuous-slash"
+question = "smooth"
+pilcrow = "high"
+lig-ltgteq = "slanted"
 
 [buildPlans.yafont.slopes.Upright]
 angle = 0
-shape = upright
-menu = upright
-css = normal
+shape = "upright"
+menu = "upright"
+css = "normal"
 
 [buildPlans.yafont.slopes.Italic]
 angle = 9.4
-shape = italic
-menu = italic
-css = italic
+shape = "italic"
+menu = "italic"
+css = "italic"
 
 [buildPlans.yafont.weights.light]
 shape = 300
@@ -103,10 +103,10 @@ menu = 700
 css = 700
 
 [buildPlans.yafont.slants]
-upright = normal
-italic = italic
+upright = "normal"
+italic = "italic"
 
 [buildPlans.yafont.widths.normal]
 shape = 500
 menu = 5
-css = normal
+css = "normal"
