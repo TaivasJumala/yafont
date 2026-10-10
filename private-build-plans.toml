@@ -1,5 +1,5 @@
 [buildPlans.yafont]
-family = yafont
+family = "yafont"
 spacing = term
 serifs = sans
 noCvSs = false
