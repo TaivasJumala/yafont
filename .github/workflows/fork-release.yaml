@@ -16,7 +16,7 @@ permissions:
 env:
   REGISTRY: ghcr.io
   # 1. 这里移除了原本大写的 IMAGE 变量
-  FONT_NAME: afio
+  FONT_NAME: yafont
 
 jobs:
   build:
